@@ -1,0 +1,15 @@
+
+1- solve the tasks in 01-Object Oriented Programming Homework.ipynb
+
+2- solve the tasks in 02-Errors and Exceptions Homework.ipynb
+
+3- try to code thanos project in another notebook 
+
+4- try to code library system project in another notebook 
+
+5- the group repo: https://github.com/EpsilonMG/Fri-28-1-Group  
+    "accept the access invitation that will be sent to your email"
+
+ add a folder with your name to the group repo  containing the assignments in a folder with the name of the lecture
+
+" All the assignments should be delivered in the classroom and to the repo "
